@@ -1,0 +1,11 @@
+{
+  "name": "real-time",
+  "version": "1.0.0",
+  "description": "As the title reads, This app is private chat application built using React (version 16.8.4). This is SPA application, which uses [react-bootstrap](https://react-bootstrap.github.io/). Server-side is written in Nodejs (version 10.15.1) and MongoDB(version 3.6.3).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punith",
+  "license": "ISC"
+}
